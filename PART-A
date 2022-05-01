@@ -1,0 +1,37 @@
+PART A:
+What is smart Contract?
+Smart contracts are simply programs stored on a blockchain that run when predetermined conditions are met. They typically are used to automate the execution of an agreement so that all participants can be immediately certain of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow, triggering the next action when conditions are met.
+
+How to Deploy it?
+steps to deploy smart contract:
+1.Write a smart contract
+2.Compile the smart contract
+3.Generate byte code through compiling
+4.Make a transaction to deploy the smart contract and send the transaction to any node in the network
+5.The transaction will be mined and added in a block by any node and will be received by other nodes
+6.Get contract address from that transaction's receipt
+7.Make transactions further to that contract address to invoke methods of that deployed smart contract
+
+What is gas?
+Gas refers to the unit that measures the amount of computational effort required to execute specific operations on the Ethereum network.
+Since each Ethereum transaction requires computational resources to execute, each transaction requires a fee. Gas refers to the fee required to conduct a transaction on Ethereum successfully.
+
+Why is gas optimization such a big focus when building smart contracts?
+
+it is the reward given to miners for putting transactions in the blockchain or executing them. You can think of it as the tip you give to your waiter at the end of the meal. thats why optimization important. less gas fee mean less tip.
+
+What is a hash?
+Hashing is a cryptographic process that can be used to validate the authenticity and integrity of various types of input.
+ It is widely used in authentication systems to avoid storing plaintext passwords in databases, but is also used to validate files, documents and other types of data
+
+Why do people use hashing to hide information?
+The hash is used to verify that data is not modified, tampered with, or corrupted. In other words, you can verify the data has maintained integrity.
+
+How would you prove to a colorblind person that two different colored objects are actually of different colors?
+
+photograph the balls in two separate photos and use a program Color Picker showing your friend that the RGB color codes are different.
+
+
+
+
+
